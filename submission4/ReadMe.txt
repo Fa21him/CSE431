@@ -7,7 +7,7 @@ Link to unlisted YouTube video:
 Public link to the slide (Anyone on the internet can view without login):
 
 
-Project title: {Enhancing Product Recommendation Systems through Text Classification of Customer Reviews
+Project title: Enhancing Product Recommendation Systems through Text Classification of Customer Reviews
 
 
 Group Number:
