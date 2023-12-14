@@ -6,7 +6,7 @@ https://www.overleaf.com/5624222954rrpbxxpgrtqq#628015
 Link to unlisted YouTube video:
 
 
-Public link to the slide (Anyone on the internet can view without login): https://docs.google.com/presentation/d/1cpwwAdzofb2noAVzsa08Y6OTLw2id-c7-mj_yqt2BCs/edit?fbclid=IwAR1Xy_FlcQAe5tLuGY9T3NIM1-XChbGeWXpx4DK_JLBASZn74ypJdTX-8SI#slide=id.g263bc8e9ae2_0_76
+Public link to the slide (Anyone on the internet can view without login): https://docs.google.com/presentation/d/1s93LQNwvT1knmb3QnjWcPiXA8BCQA6t6_BSYYLr1er8/edit?usp=sharing
 
 
 Project title: Enhancing Product Recommendation Systems through Text Classification of Customer Reviews
